@@ -16,7 +16,7 @@ class Config:
     #local_path = '/Users/stevenhuang/Dropbox/Leetcode/Algorithms'
     local_path =  '/Users/Steven/Documents/Algorithms'
     # solution of leetcode
-     github_leetcode_url = 'https://github.com/goegibay/Algorithms'
+    github_leetcode_url = 'https://github.com/goegibay/Algorithms'
     #github_leetcode_url =  'https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms'
 
     # solution of pat,　暂时还没写
