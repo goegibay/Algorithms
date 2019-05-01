@@ -14,7 +14,7 @@ class Config:
     ２．　github中的仓库leetcode解法的路径
     """
     #local_path = '/Users/stevenhuang/Dropbox/Leetcode/Algorithms'
-    local_path =  '/Users/Steven/Documents/Algorithms'
+    local_path =  '/Users/Steven/Dropbox/Leetcode/Algorithms'
     # solution of leetcode
     #github_leetcode_url = 'https://github.com/goegibay/Algorithms'
     github_leetcode_url =  'https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms'
