@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-05-01 15:46:45, I have solved **35** / **986** problems while **140** are still locked.
+Until 2019-05-02 00:00:55, I have solved **43** / **986** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 35
+4. Java: 43
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -14,23 +14,23 @@ Note: :lock: means you need to buy a book from LeetCode
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.java)|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
-|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.java)|
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
-|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/006.%20ZigZag%20Conversion/Solution.java)|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/Solution.java)|
-|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
+|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)/Solution.java)|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
-|011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|To Do|
-|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|To Do|
+|011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/Solution.java)|
+|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/012.%20Integer%20to%20Roman/Solution.java)|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/015.%203Sum/Solution.java)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/016.%203Sum%20Closest/Solution.java)|
-|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
-|018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)|
+|018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/goegibay/Algorithms/blob/master/leetcode-algorithms/018.%204Sum/Solution.java)|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
